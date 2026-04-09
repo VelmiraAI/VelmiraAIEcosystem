@@ -1,0 +1,23 @@
+{
+  "projectName": "CoreLab",
+  "environment": "development",
+
+  "logging": {
+    "level": "debug",
+    "destinations": ["console", "file"],
+    "filePath": "./logs/corelab.log",
+    "maxFileSizeMb": 10,
+    "rotation": true
+  },
+  "features": {
+    "enableDiagnostics": true,
+    "enableRealTimeAlerts": false,
+    "enableMetrics": true,
+    "enableTracing": false
+  },
+  "security": {
+    "useAuth": true,
+    "allowedIPs": ["127.0.0.1"],
+    "rateLimitPerMinute": 120
+  }
+}
