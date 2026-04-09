@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" height="400" alt="velmira_terminal_cover" src="https://github.com/VelmiraAI/VelmiraAIEcosystem/blob/main/velmira-removebg-preview.png" />
+  <img width="400" height="400" alt="velmira_terminal_cover" src="https://github.com/VelmiraAI/VelmiraAIEcosystem/blob/main/velmira.jpeg" />
 </p>
 
 <h1 align="center">Velmira Terminal</h1>
